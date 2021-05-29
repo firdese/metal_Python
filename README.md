@@ -17,4 +17,6 @@ Launching Program (For Windows):
 - enter the command /python metal.py/ to launch the program.
 - navigate through the launched program using the User Interface.
 - videos with different file extension has been tested and working (.mp4, .MOV, .flv).
+
+Program is still in ACTIVE Development.
  
